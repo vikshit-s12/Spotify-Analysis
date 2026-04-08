@@ -27,4 +27,12 @@ Data Source:
 Dashboard Preview:
 📊 View Full Dashboard (PDF)
 
-👉
+👉https://github.com/vikshit-s12/Spotify-Analysis/blob/main/spotifydashboard.pdf
+
+Highlights:
+
+🎧 Built interactive dashboards using Power BI
+🧠 Created calculated measures using DAX
+📈 Analyzed trends in song popularity and artist performance
+⚡ Handled large dataset efficiently with BI tools
+🐍 Used Python to validate and check for missing values
