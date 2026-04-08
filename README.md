@@ -7,6 +7,8 @@ Description:
 
 🎯 The primary goal is to leverage Power BI and DAX for data modeling and visualization, while using Python for initial data validation due to the large dataset size.
 
+
+
 Tech Stack:
 
 📊 Visualization - Power BI
@@ -16,6 +18,8 @@ Tech Stack:
 🐍 Data Validation -	Python (Null value checks)
 
 📁 Data Source -	CSV / Excel
+
+
 
 
 Data Source:
@@ -34,11 +38,15 @@ Data Source:
 🎼 Audio Features
 
 
+
+
 Dashboard Preview:
 
 📊 View Full Dashboard (PDF)
 
 👉https://github.com/vikshit-s12/Spotify-Analysis/blob/main/spotifydashboard.pdf
+
+
 
 Highlights:
 
