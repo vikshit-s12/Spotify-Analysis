@@ -24,8 +24,9 @@ Tech Stack:
 
 Data Source:
 
-🌐 Public dataset from Kaggle / Spotify Open Data
-📌 Contains:
+Public dataset from Kaggle / Spotify Open Data
+
+Contains:
 
 🎵 Track Name
 
